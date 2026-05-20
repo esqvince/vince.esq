@@ -15,4 +15,4 @@ a personal website built with [next.js 16](https://nextjs.org/), showing what mu
 
 ---
 
-> “max, never maxine”
+> this is the probably the latest website i've made without ai 💀
